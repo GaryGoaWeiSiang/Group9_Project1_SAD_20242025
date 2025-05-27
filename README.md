@@ -1,4 +1,4 @@
-# This is the repository for project for the course SECD2136 - System Analysis And Design  
+# This is the repository for project for the course SECD2613 - System Analysis And Design  
 ## Group 9  
 Members:  
 1) GOA WEI SIANG
